@@ -14,6 +14,6 @@ Scripts for feature extraction, training, and model application for Lambert et a
 - Pandas
 - NumPy
 - Scikit-learn
-- XGboost
+- XGBoost
 - Keras==2.3.1
 - Tensorflow==2.0.0
