@@ -8,7 +8,7 @@ Scripts for feature extraction, training, and model application for Lambert et a
 - training_evaluation:
   - Script to perform cross-validation on resulting models.
 - model
-  - CLI to make predictions using either XGboost or Random Forest. 
+  - CLI to make predictions using either XGBoost or Random Forest. 
 
 ## Dependencies
 - Pandas
