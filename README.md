@@ -1,5 +1,5 @@
 # Trophic mode ml
-Scripts for feature extraction, training, and model application for Lambert et al.
+Scripts for feature extraction, training, and model application.
 
 ## Contents
 - param_feature_selection:
