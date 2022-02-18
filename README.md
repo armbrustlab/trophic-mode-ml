@@ -17,3 +17,7 @@ Scripts for feature extraction, training, and model application.
 - XGBoost
 - Keras==2.3.1
 - Tensorflow==2.0.0
+
+
+Zenodo data repository for this work: https://zenodo.org/record/4425690
+Link to paper: https://www.pnas.org/content/119/7/e2100916119
